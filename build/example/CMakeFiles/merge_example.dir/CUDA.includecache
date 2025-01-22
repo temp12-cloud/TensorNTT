@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../source/common/include/modular.cuh
+cstdint
+-
+sys/types.h
+-
+
+../source/common/include/parameters.cuh
+modular.cuh
+../source/common/include/modular.cuh
+cstdint
+-
+sys/types.h
+-
+vector
+-
+
+../source/merge_ntt/include/merge_ntt.cuh
+modular.cuh
+../source/merge_ntt/include/modular.cuh
+cstdint
+-
+
+/home/xkyin/work/TensorNTT/example/merge_example.cu
+merge_ntt.cuh
+/home/xkyin/work/TensorNTT/example/merge_ntt.cuh
+parameters.cuh
+/home/xkyin/work/TensorNTT/example/parameters.cuh
+cstdint
+-
+iostream
+-
+

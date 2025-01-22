@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/tensor_0_time.dir/tensor_0_time.cu.o CMakeFiles/tensor_0_time.dir/cmake_device_link.o -o ../../bin/tensor_0_time  ../source/tensor_ntt/lib/libtensor_ntt.a ../source/common/lib/libcommon.a  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmerge_ntt.a  CMakeFiles/merge_ntt.dir/merge_ntt_cpu.cu.o CMakeFiles/merge_ntt.dir/merge_ntt.cu.o
+/usr/bin/ranlib libmerge_ntt.a

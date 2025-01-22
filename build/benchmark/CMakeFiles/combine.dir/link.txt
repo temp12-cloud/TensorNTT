@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/combine.dir/combine.cu.o CMakeFiles/combine.dir/cmake_device_link.o -o ../../bin/combine  ../source/tensor_ntt/lib/libtensor_ntt.a ../source/merge_ntt/lib/libmerge_ntt.a ../source/common/lib/libcommon.a  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

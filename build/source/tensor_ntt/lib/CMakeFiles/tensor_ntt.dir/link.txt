@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtensor_ntt.a  CMakeFiles/tensor_ntt.dir/tensor_0.cu.o CMakeFiles/tensor_ntt.dir/tensor_1.cu.o CMakeFiles/tensor_ntt.dir/tensor_2.cu.o CMakeFiles/tensor_ntt.dir/tensor_3.cu.o CMakeFiles/tensor_ntt.dir/tensor_4.cu.o CMakeFiles/tensor_ntt.dir/tensor_5.cu.o CMakeFiles/tensor_ntt.dir/tensor_6.cu.o CMakeFiles/tensor_ntt.dir/tensor_7.cu.o CMakeFiles/tensor_ntt.dir/tensor_8.cu.o
+/usr/bin/ranlib libtensor_ntt.a

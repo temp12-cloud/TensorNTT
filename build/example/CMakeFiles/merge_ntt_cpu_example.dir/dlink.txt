@@ -1,0 +1,1 @@
+nvcc   -std=c++17 -arch=sm_90 -O3 -O3 -DNDEBUG -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/merge_ntt_cpu_example.dir/merge_ntt_cpu_example.cu.o -o CMakeFiles/merge_ntt_cpu_example.dir/cmake_device_link.o  ../source/merge_ntt/lib/libmerge_ntt.a ../source/common/lib/libcommon.a 

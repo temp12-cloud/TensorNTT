@@ -1,0 +1,1 @@
+nvcc   -std=c++17 -arch=sm_90 -O3 -O3 -DNDEBUG -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/tensor_8_time.dir/tensor_8_time.cu.o -o CMakeFiles/tensor_8_time.dir/cmake_device_link.o  ../source/tensor_ntt/lib/libtensor_ntt.a ../source/common/lib/libcommon.a 

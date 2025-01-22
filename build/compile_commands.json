@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/common/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/common/lib/common.cu -o CMakeFiles/common.dir/common.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/common/lib/common.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/common/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/common/lib/parameters.cu -o CMakeFiles/common.dir/parameters.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/common/lib/parameters.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_0.cu -o CMakeFiles/tensor_ntt.dir/tensor_0.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_0.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_1.cu -o CMakeFiles/tensor_ntt.dir/tensor_1.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_1.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_2.cu -o CMakeFiles/tensor_ntt.dir/tensor_2.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_2.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_3.cu -o CMakeFiles/tensor_ntt.dir/tensor_3.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_3.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_4.cu -o CMakeFiles/tensor_ntt.dir/tensor_4.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_4.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_5.cu -o CMakeFiles/tensor_ntt.dir/tensor_5.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_5.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_6.cu -o CMakeFiles/tensor_ntt.dir/tensor_6.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_6.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_7.cu -o CMakeFiles/tensor_ntt.dir/tensor_7.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_7.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/tensor_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_8.cu -o CMakeFiles/tensor_ntt.dir/tensor_8.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/tensor_8.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/merge_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/merge_ntt/lib/merge_ntt_cpu.cu -o CMakeFiles/merge_ntt.dir/merge_ntt_cpu.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/merge_ntt/lib/merge_ntt_cpu.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/source/merge_ntt/lib",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/source/merge_ntt/lib/merge_ntt.cu -o CMakeFiles/merge_ntt.dir/merge_ntt.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/source/merge_ntt/lib/merge_ntt.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/example",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/example/tensor_7_example.cu -o CMakeFiles/tensor_7_example.dir/tensor_7_example.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/example/tensor_7_example.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/example",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/example/merge_example.cu -o CMakeFiles/merge_example.dir/merge_example.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/example/merge_example.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/example",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/example/merge_ntt_cpu_example.cu -o CMakeFiles/merge_ntt_cpu_example.dir/merge_ntt_cpu_example.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/example/merge_ntt_cpu_example.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_8_time.cu -o CMakeFiles/tensor_8_time.dir/tensor_8_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_8_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/combine.cu -o CMakeFiles/combine.dir/combine.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/combine.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_7_time.cu -o CMakeFiles/tensor_7_time.dir/tensor_7_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_7_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_6_time.cu -o CMakeFiles/tensor_6_time.dir/tensor_6_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_6_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_5_time.cu -o CMakeFiles/tensor_5_time.dir/tensor_5_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_5_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_4_time.cu -o CMakeFiles/tensor_4_time.dir/tensor_4_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_4_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_3_time.cu -o CMakeFiles/tensor_3_time.dir/tensor_3_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_3_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_1_time.cu -o CMakeFiles/tensor_1_time.dir/tensor_1_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_1_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_0_time.cu -o CMakeFiles/tensor_0_time.dir/tensor_0_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_0_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/tensor_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -c /home/xkyin/work/TensorNTT/benchmark/tensor_2_time.cu -o CMakeFiles/tensor_2_time.dir/tensor_2_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/tensor_2_time.cu"
+},
+{
+  "directory": "/home/xkyin/work/TensorNTT/build/benchmark",
+  "command": "nvcc   -I/home/xkyin/work/TensorNTT/source/merge_ntt/lib/../include -I/home/xkyin/work/TensorNTT/source/common/lib/../include   -std=c++17  --cuda-gpu-arch=sm_90  -O3 -DNDEBUG   -x cu -dc /home/xkyin/work/TensorNTT/benchmark/merge_time.cu -o CMakeFiles/merge_time.dir/merge_time.cu.o",
+  "file": "/home/xkyin/work/TensorNTT/benchmark/merge_time.cu"
+}
+]
